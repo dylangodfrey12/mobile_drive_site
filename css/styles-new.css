@@ -63,7 +63,7 @@
         width: 50%;
     }
 }
-
+/* larger screens */
 @media (min-width: 48em) {
     .pull-right-sm {
         float: right;
